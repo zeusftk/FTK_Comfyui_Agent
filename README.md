@@ -66,7 +66,7 @@ FTK COMFYUI Agent 配置 ComfyUI 后，可通过聊天自动调用并执行 Comf
 
 ## 🔥 Latest Update!!
 * 2026-02-10: 👋 v1.07 已发布，下载升级补丁，升级即可。添加自媒体视频批量发布功能。
-  ---下载链接：https://pan.baidu.com/s/1aEjGYpXJRzy1RmRTYtxVwQ?pwd=vcwq
+  - 下载链接：https://pan.baidu.com/s/1aEjGYpXJRzy1RmRTYtxVwQ?pwd=vcwq
 * 2025-12-30: 👋 v1.06 已发布，下载升级补丁，升级即可。添加一键短剧功能，输入【一键短剧】调出界面。
 * 2025-12-17: 👋 v1.05 已发布，基本稳定版本。添加自动抖音/小红书评论功能，直接输入自动评论调出界面。（只用评论功能可以不下载模型（200G））
 * 2025-11-10: 👋 v1.03 已发布，基本稳定版本。计划功能还处于测试期。一键安装包下载。
